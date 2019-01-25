@@ -12,4 +12,5 @@ public class EmployeeDeatils {
 		System.out.println(ex.get(3));
 		System.out.println(ex.get(10));
 		System.out.println(ex.get(2));
+		System.out.println(ex.get(4));
 }}
